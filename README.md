@@ -21,7 +21,7 @@ AfterMind is an AI-powered emotional storytelling and journaling platform design
 ## Installation
 
 Clone repository:
-git clone YOUR_GITHUB_LINK
+git clone (https://github.com/mdsafiatabassum-code/AFTERMIND-NEW-)
 
 Install dependencies:
 npm install
@@ -31,11 +31,7 @@ npm run dev
 
 ## Demo
 
-Add deployment link here
-
-## Screenshots
-
-Upload screenshots here
+(https://youtu.be/GzL-dPz-5-I?si=O7nZLvwkJ7cECAd6)
 
 ## Contributors
 
